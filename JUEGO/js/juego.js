@@ -27,3 +27,14 @@ function encuentre(num){
   
 }
 
+document.getElementById("ganar").style.display="none";
+function encuentre(num){
+  document.getElementById("ganar").style.display="block";
+}
+
+
+let reinicio = document.getElementById('reinicio');
+reinicio.addEventListener('click', _ => {
+            location.reload();
+})
+
