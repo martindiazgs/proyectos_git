@@ -6,3 +6,18 @@ img{
   width: 200px;
   height: 200px;
 }
+
+#ganar{
+  background-color: cadetblue;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 10px;
+  width: 45%;
+}
+
+#reinicio{
+  margin-top: 25px;
+  margin-left: 20%;
+}
